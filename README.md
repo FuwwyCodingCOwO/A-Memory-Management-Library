@@ -1,6 +1,7 @@
-# IMPORTANT
-Version 2.2 is currently being worked on and will be released by 8/3/2025 (dd/mm/yyyy)
-Now behind schedule.
+# NOTICE
+This project has been archived as I will now be puting focus into a better project.
+
+This could be updated in the future.
 
 # A-Memory-Management-Library
 A C library that holds pointers during runtime
